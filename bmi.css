@@ -25,3 +25,18 @@ button{
     font-family:'Times New Roman', Times, serif ;
     font-size: large;
 }
+button:hover{
+    background-color: aquamarine;
+}
+.result{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+}
+.compchoice{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+
+}
